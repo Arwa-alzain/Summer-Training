@@ -66,19 +66,19 @@ Task-01-Robot-Dog-Mechanical-Design/
 
 ### Isometric View
 
-![Robot Dog](Task-01-Robot-Dog-Mechanical-Design/Images/isometric.png)
+![Robot Dog](Images/isometric.png)
 
 ### Top View
 
-![Top View](Task-01-Robot-Dog-Mechanical-Design/Images/top.png)
+![Top View](Images/top.png)
 
 ### Side View
 
-![Side View](Task-01-Robot-Dog-Mechanical-Design/Images/side.png)
+![Side View](Images/side.png)
 
 ### Front View
 
-![Front View](Task-01-Robot-Dog-Mechanical-Design/Images/front.png)
+![Front View](Images/front.png)
 
 ---
 
