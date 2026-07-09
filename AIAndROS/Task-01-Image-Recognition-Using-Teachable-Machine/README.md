@@ -1,4 +1,4 @@
-# 🧠 Task 01 – Image Recognition Using Google Teachable Machine
+# Task 01 – Image Recognition Using Google Teachable Machine
 
 ## 📌 Overview
 
