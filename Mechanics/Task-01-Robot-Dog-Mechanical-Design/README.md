@@ -24,7 +24,7 @@ The project focuses on the mechanical structure rather than the electronic or co
 ## 🛠️ Software Used
 
 - **Tinkercad** – 3D Mechanical Design
-- **Microsoft Word** – Report Writing
+- **Pages** – Report Writing
 
 ---
 
