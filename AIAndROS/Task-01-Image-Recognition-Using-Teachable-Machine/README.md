@@ -117,6 +117,10 @@ python predict.py
 
 ## 📸 Results
 
+### Training
+
+![Training](screenshots/teachable_machine_training.png)
+
 ### Water Bottle Prediction
 
 ![Water Bottle](screenshots/prediction_water.png)
