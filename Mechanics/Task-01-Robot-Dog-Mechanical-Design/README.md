@@ -1,4 +1,4 @@
-# 🐕 Task 01 – Robot Dog Mechanical Design
+# Task 01 – Robot Dog Mechanical Design
 
 ## 📌 Overview
 
