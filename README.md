@@ -1,4 +1,4 @@
-# 💼 Summer Training Portfolio
+# Summer Training Portfolio
 
 Welcome to my **Summer Training Portfolio** at **Smart Methods|الأساليب الذكية**.
 
