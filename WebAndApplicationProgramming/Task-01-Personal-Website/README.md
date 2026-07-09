@@ -1,4 +1,4 @@
-# 🌐 Task 01 – Personal Portfolio Website
+# Task 01 – Personal Portfolio Website
 
 ## 📌 Overview
 
