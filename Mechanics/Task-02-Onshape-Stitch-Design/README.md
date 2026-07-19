@@ -1,40 +1,45 @@
-# Task-02-Onshape-Stitch-Design 💙
+# Task-02-Onshape-Spider-Man-Keychain 
 
 ## Description
-This project is for the Mechanics Task 2. It features a custom, 3D-designed keychain of the beloved Disney character Stitch. The model was built entirely from scratch in Onshape, based on personal dimension estimations, and exported in STL format to be fully optimized for 3D printing.
+Welcome to the repository for Mechanical Task 2. For this Task, the **Spider-Man Keychain** was chosen to design a custom, 3D-printable keychain. The dimensions were meticulously embedded into the model and exported directly.
 
-## Design Visuals
-* **Final 3D Model**
-  
-![Stitch CAD Design](Images/stitch-model.png)
+---
 
-## Design Approach & Workflow
-* **Reference Image Tracing:** Imported an image of Stitch into the Onshape sketch plane to serve as a precise visual guide.
-* **Spline Modeling:** Utilized the Spline tool to meticulously trace and capture the complex, organic curves of Stitch’s iconic face and large ears.
-* **Dimensioning:** Proportioned the model to ensure it is practical, well-balanced, and durable for everyday pocket use.
-* **Extrusion & Mechanical Features:**
-  * Extruded the main profile to the required structural thickness of 2 mm.
-  * Incorporated a precise 4 mm mechanical cutout to function as the keyring attachment hole.
+## 🛠️ Workflow & Technical Analysis
 
+This section outlines the process of transforming the Spider-Man emblem into a functional 3D model.
+
+1.  **Concept Selection & Scaling:** Selected the Spider-Man emblem and scaled it to a functional keychain size (approximately 35mm - 45mm bounding range).
+2.  **2D Sketching:** Traced and drafted the logo details using parametric constraints inside the Onshape sketch studio.
+3.  **Keyring Attachment:** Incorporated a circular cut through-hole with a diameter of **4 mm** to accommodate standard keyrings.
+4.  **Extrusion:** Applied an extrusion depth of exactly **2 mm** to achieve a lightweight yet rigid structure.
+### 🖼️ Design Preview
+
+Here is a visual representation of the final CAD model:
+
+![Spider-Man Keychain Design Preview](Images/SpiderMan-Keychain.png)
+
+5.  **Validation & Export:** Verified mesh integrity and exported the finished model as an **STL** file for 3D printing.
+   
 ## Repository Structure
 ```
-Task-02-Onshape-Stitch-Design/
+Task-02-Onshape-Spider-Man-Keychain/
 ├── README.md
-├── Onshape-Stitch-Design.stl
+├── OSpiderMan-Keychain.stl
 └── Images/
-    └── stitch_model.png
+    └── SpiderMan-Keychain.png
 ```
 
-## Technical Specifications & Dimensions
-* **Thickness (Main Extrude):** 2 mm (as per assignment requirements)
-* **Keyring Hole (Circular Cut):** 4 mm (positioned at the top center for balanced hanging)
-* **Overall Scale:** Scaled to fit standard keychain proportions (~50 mm - 60 mm bounding box)
-* **Output File Format:** STL
+---
 
-## Project Deliverables & Links
-* 🔗 [View Live 3D Model on Onshape](https://cad.onshape.com/documents/abfe16faeeb0ca89288e78f9/w/3f8a98b7a4a23adc3b7b1408/e/638a46f06a9f2f0c22ae9df7?renderMode=0&uiState=6a5c1f99f648b00d07e50dbe)
+## 🔗 Project Links
+
+*   **Onshape Design Link:** [Click here to view the live design]([Insert_Your_Onshape_Link_Here](https://cad.onshape.com/documents/abfe16faeeb0ca89288e78f9/w/3f8a98b7a4a23adc3b7b1408/e/638a46f06a9f2f0c22ae9df7?renderMode=0&uiState=6a5c1f99f648b00d07e50dbe))
+*   **3D Model File:** The verified `SpiderMan-Keychain.stl` file is uploaded directly to this repository.
+
 > ⚠️ **Important Note:** To open the live 3D model successfully, please **right-click** on the link and select **"Open link in new tab"**. Clicking the link directly may result in a "403 Forbidden" or "Not Found" error due to browser routing restrictions.
-> 
+>
+---
 ## 👩‍💻 Author
 
 **Arwa AlZain**
