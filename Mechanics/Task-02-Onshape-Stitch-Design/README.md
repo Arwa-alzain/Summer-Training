@@ -5,7 +5,7 @@ This project is for the Mechanics Task 2. It features a custom, 3D-designed keyc
 
 ## Design Visuals
 * **Final 3D Model**
-![Stitch CAD Design](ّImages/stitch_model.png)
+![Stitch CAD Design](ّImages/stitch-model.png)
 
 ## Design Approach & Workflow
 * **Reference Image Tracing:** Imported an image of Stitch into the Onshape sketch plane to serve as a precise visual guide.
