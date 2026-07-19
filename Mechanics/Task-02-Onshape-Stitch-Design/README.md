@@ -32,7 +32,8 @@ Task-02-Onshape-Stitch-Design/
 
 ## Project Deliverables & Links
 * 🔗 [View Live 3D Model on Onshape](https://cad.onshape.com/documents/abfe16faeeb0ca89288e78f9/w/3f8a98b7a4a23adc3b7b1408/e/638a46f06a9f2f0c22ae9df7?renderMode=0&uiState=6a5c1f99f648b00d07e50dbe)
-
+> ⚠️ **Important Note:** To open the live 3D model successfully, please **right-click** on the link and select **"Open link in new tab"**. Clicking the link directly may result in a "403 Forbidden" or "Not Found" error due to browser routing restrictions.
+> 
 ## 👩‍💻 Author
 
 **Arwa AlZain**
