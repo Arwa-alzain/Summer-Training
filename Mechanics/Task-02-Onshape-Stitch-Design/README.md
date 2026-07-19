@@ -1,7 +1,7 @@
-# Stitch Character Keychain (CAD Design) 💙
+# Task-02-Onshape-Stitch-Design 💙
 
 ## Description
-This project is for the Mechanics Assignment 2. It features a custom, 3D-designed keychain of the beloved Disney character Stitch. The model was built entirely from scratch in Onshape, based on personal dimension estimations, and exported in STL format to be fully optimized for 3D printing.
+This project is for the Mechanics Task 2. It features a custom, 3D-designed keychain of the beloved Disney character Stitch. The model was built entirely from scratch in Onshape, based on personal dimension estimations, and exported in STL format to be fully optimized for 3D printing.
 
 ## Design Visuals
 * **Final 3D Model**
