@@ -101,7 +101,7 @@ void loop(){
 ### Working Demo (Simulation Video)
 Detailed demonstration video showcasing the synchronized sweep behavior and the permanent lock at 90°:
 
-![Working Demo](Simulation.gif)
+![Working Demo](https://youtu.be/uWIlvPEV788)
 
 ---
 
