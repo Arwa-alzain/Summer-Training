@@ -35,7 +35,7 @@ After training, the model was exported in **TensorFlow (Keras)** format and inte
 ## 📂 Project Structure
 
 ```text
-Task-02-Image-Recognition-Using-Teachable-Machine/
+Task-01-Image-Recognition-Using-Teachable-Machine/
 │
 ├── README.md
 ├── predict.py
