@@ -20,7 +20,7 @@ This repository documents the tasks, projects, and practical work completed duri
 
 - Python, HTML, CSS, JavaScript, React, PHP, Django, Flutter
 - Google Teachable Machine
-- Tinkercad
+- Tinkercad, Onshape
 - Git & GitHub
 
 ---
