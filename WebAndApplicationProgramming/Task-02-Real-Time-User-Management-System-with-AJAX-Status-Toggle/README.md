@@ -1,4 +1,4 @@
-# Real-Time User Management System with AJAX Status Toggle
+# Task-02-Real-Time-User-Management-System-with-AJAX-Status-Toggle
 
 A full-stack web application designed to handle user records and perform real-time database updates. This project features a clean one-line input form, dynamic data rendering, and an asynchronous **AJAX-powered status toggle** that reflects changes instantly on the webpage without full page reloads.
 
