@@ -6,8 +6,8 @@ A full-stack web application designed to handle user records and perform real-ti
 
 ## 🛠️ Tech Stack
 
-* **Front-End:** HTML5, CSS3 (Flexbox & Responsive Table Layouts), Vanilla JavaScript (`XMLHttpRequest`).
-* **Back-End:** PHP 8.
+* **Front-End:** HTML, CSS (Flexbox & Responsive Table Layouts), Vanilla JavaScript (`XMLHttpRequest`).
+* **Back-End:** PHP.
 * **Database:** MySQL.
 * **Environment Compatibility:** Works seamlessly with local servers (XAMPP) and web hostings (InfinityFree).
 
