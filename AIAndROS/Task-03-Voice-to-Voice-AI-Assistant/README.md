@@ -103,3 +103,13 @@ Task-03-Voice-to-Voice-AI-Assistant/
 4. Check real-time logs in `realtimesst.log` for audio processing details and transcription logs.
 
 ---
+
+## 👩‍💻 Author
+
+**Arwa AlZain**
+
+Computer Science Student
+
+Qassim University
+
+Summer Training Program – 2026
