@@ -1,4 +1,4 @@
-# Task-02-Onshape-Spider-Man-Keychain 
+# Task-02- Onshape Spider-Man Keychain 
 
 ## Description
 Welcome to the repository for Mechanical Task 2. For this Task, the **Spider-Man Keychain** was chosen to design a custom, 3D-printable keychain. The dimensions were meticulously embedded into the model and exported directly.
