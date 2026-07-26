@@ -17,7 +17,7 @@ Watch the assistant in action on YouTube:
 ```text
 Task-03-Voice-to-Voice-AI-Assistant/
 │
-├── .env-example            # Template for environment variables
+├── .env.example            # Template for environment variables
 ├── .gitignore              # Git ignore rules
 ├── main.py                 # Main execution script
 ├── realtimesst.log         # Real-time Speech-to-Text execution logs
