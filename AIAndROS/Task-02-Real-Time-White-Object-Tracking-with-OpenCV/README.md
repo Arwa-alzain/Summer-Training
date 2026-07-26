@@ -52,4 +52,4 @@ Computer Science Student
 
 Qassim University
 
-Summer Training Program – 2026
+Summer Training Program – 2026.
