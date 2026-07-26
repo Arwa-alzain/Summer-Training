@@ -53,3 +53,5 @@ Each task is organized in its own folder and contains:
 **GitHub:** [https://github.com/Arwa-alzain](https://github.com/Arwa-alzain)
 
 **LinkedIn:** [https://linkedin.com/in/arwa-alzain/](https://www.linkedin.com/in/arwa-alzain/)
+
+**Email:**  [arwaalzain0@gmail.com](mailto:arwaalzain0@gmail.com)
