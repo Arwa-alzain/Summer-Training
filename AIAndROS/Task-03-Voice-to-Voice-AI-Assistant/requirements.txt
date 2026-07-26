@@ -1,0 +1,7 @@
+RealtimeSTT
+RealtimeTTS
+openai-whisper
+langchain
+langchain-community
+cohere
+python-dotenv
