@@ -1,4 +1,4 @@
-# Task-01-Program-4Servo-Motors-Control-using-Arduino (Tinkercad Simulation)
+# Task-01- Program 4Servo Motors Control using Arduino (Tinkercad Simulation)
 
 A GitHub repository demonstrating how to control and synchronize four micro servo motors using an Arduino Uno. The system executes a controlled **Sweep** movement for approximately 2 seconds, followed by an immediate and permanent hold at **90 degrees**.
 
