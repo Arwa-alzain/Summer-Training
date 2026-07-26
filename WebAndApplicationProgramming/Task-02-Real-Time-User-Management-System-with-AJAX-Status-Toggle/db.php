@@ -1,7 +1,7 @@
 <?php
 $servername = "sql302.infinityfree.com";
-$username = "****";
-$password = "****";
+$username = "*****";
+$password = "*****";
 $dbname = "if0_42455644_user_db";
 
 // Create connection
