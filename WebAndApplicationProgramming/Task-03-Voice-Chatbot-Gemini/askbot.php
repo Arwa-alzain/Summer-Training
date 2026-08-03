@@ -31,8 +31,8 @@ if (!defined('GEMINI_API_KEY') || empty(GEMINI_API_KEY)) {
     exit;
 }
 
-// استخدام نموذج Gemini 2.0 Flash
-$model = 'gemini-2.0-flash';
+// استخدام نموذج Gemini 3.5 Flash
+$model = 'gemini-3.5-flash';
 $url   = "https://generativelanguage.googleapis.com/v1beta/models/{$model}:generateContent?key=" . GEMINI_API_KEY;
 
 $body = json_encode([
