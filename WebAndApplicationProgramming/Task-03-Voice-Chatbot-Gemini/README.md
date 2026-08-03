@@ -17,7 +17,7 @@ A full-stack, voice-interactive AI chatbot built with a dynamic **HTML/CSS/JavaS
 ## 📁 Project Structure
 
 ```text
-htdocs/task3/
+Task-03-Voice-Chatbot-Gemini/
 ├── index.html           # Primary UI & Document Layout
 ├── style.css            # Visual styling and responsive design
 ├── app.js               # Client-side logic (Speech Recognition, Audio Synth, Fetch API)
