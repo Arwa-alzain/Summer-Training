@@ -2,7 +2,10 @@
 
 A full-stack, voice-interactive AI chatbot built with a dynamic **HTML/CSS/JavaScript** front-end and a secure **PHP** backend. The application enables users to interact with Google's Gemini LLM via Speech-to-Text (STT) and Text-to-Speech (TTS) natively inside the browser.
 
-[Live Demo](https://arwa-alzain.infinityfree.io/task3/)
+---
+## 📸 Screenshot
+![](screenshot/Gemini-API.png)
+
 
 ---
 ## 📌 Features
