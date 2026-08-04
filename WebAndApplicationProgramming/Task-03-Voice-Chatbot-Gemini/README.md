@@ -26,7 +26,7 @@ Task-03-Voice-Chatbot-Gemini/
 ├── app.js               # Client-side logic (Speech Recognition, Audio Synth, Fetch API)
 ├── config.example.php   # Protected configuration file storing the Gemini API Key
 ├── askbot.php           # PHP Backend Handler (Proxies requests to Google Gemini REST API)
-screenshots/        
+├──screenshot/        
 │   └──  Gemini-API.png
 └── README.md            # Technical documentation
 ```
